@@ -7,7 +7,7 @@ Face Detection with a Multi-Task Cascaded Convolutional Neural Network (MT-CNN)
 
 * matplotlib (conda or pip install)
 * mtncc (pip install)
-* tensorflow conda or pip install)
+* tensorflow (conda or pip install)
 
 Or create a local environment using the enclosed .yml with with:
 
