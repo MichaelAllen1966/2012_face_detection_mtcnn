@@ -2,8 +2,6 @@
 
 Face Detection with a Multi-Task Cascaded Convolutional Neural Network (MT-CNN)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelAllen1966/2012_face_detection_mtcnn/)
-
 ## Requirements
 
 * matplotlib (conda or pip install)
